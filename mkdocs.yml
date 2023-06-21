@@ -104,7 +104,7 @@ plugins:
       caption_position: bottom
   - mkdocs-versioning:
       version: 0.1.0
-      exclude_from_nav: ["pdf"]
+      exclude_from_nav: ["pdf","es","eu","en","ca"]
   - with-pdf:
       author: Equipo Migración
 
