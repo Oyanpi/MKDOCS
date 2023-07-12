@@ -52,7 +52,7 @@ plugins:
       docs_structure: folder
       languages:
         en:
-          name: Englis
+          name: English
           build: true
         es:
           name: Spanish
@@ -103,8 +103,7 @@ plugins:
       auto_caption: false
       caption_position: bottom
   - mkdocs-versioning:
-      version: 0.1.0
-      exclude_from_nav: ["pdf","es","eu","en","ca"]
+      version: 0.0.2
   - with-pdf:
       author: Equipo Migración
-
+  - awesome-pages

@@ -158,3 +158,5 @@ graph LR
 
 
 [Descarga pdf](pdf/document.pdf)
+
+Esta es la version 0.0.2
